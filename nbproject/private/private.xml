@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/view/RunningStartView.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/KindsDAO.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/service/LoginController.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/dto/InterfaceDTO.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/Save.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/Login.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/readme</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/view/RunningView.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/service/MusicController.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/SaveService.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/MusicDAO.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/LoginService.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/dto/MusicDTO.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/dto/ParentDTO.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/service/SaveController.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/dto/KindsDTO.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/model/MusicService.java</file>
+            <file>file:/C:/Users/choi9/Documents/NetBeansProjects/MUSIC/src/music/view/RunningEndView.java</file>
+        </group>
+    </open-files>
+</project-private>
